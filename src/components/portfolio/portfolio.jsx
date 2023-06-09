@@ -14,7 +14,8 @@ const portfolio = () => {
 
           <div className="portfolio__item-image"></div>
           <h3>This is a portfolio item title</h3>
-          <a href=""></a>
+          <a href="https://github.com/SaiAryan1784/Sai_portfolio" className='btn'>Github</a>
+          <a href="https://github.com/SaiAryan1784/Sai_portfolio" className='btn'>Github</a>
 
         </article>
 

@@ -1,38 +1,38 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/portfolioproj.png'
+import IMG2 from '../../assets/firstproj.png'
+import IMG3 from '../../assets/htmlcssproj.png'
+import IMG4 from '../../assets/jsproj.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Project 1',
+    title: 'Portfolio using React',
     github: "https://github.com/SaiAryan1784/Sai_portfolio",
-    demo: "https://github.com/SaiAryan1784/Sai_portfolio"
+    demo: "https://saiaryan1784.github.io/Sai_portfolio/"
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Project 2',
-    github: "https://github.com/SaiAryan1784/Sai_portfolio",
-    demo: "https://github.com/SaiAryan1784/Sai_portfolio"
+    title: 'First Project ',
+    github: "https://github.com/SaiAryan1784/cartoon-hero",
+    demo: "https://saiaryan1784.github.io/cartoon-hero/"
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Project 3',
-    github: "https://github.com/SaiAryan1784/Sai_portfolio",
-    demo: "https://github.com/SaiAryan1784/Sai_portfolio"
+    title: 'HTML CSS Project',
+    github: "https://github.com/SaiAryan1784/GYM-JIM",
+    demo: "https://saiaryan1784.github.io/GYM-JIM/"
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Project 4',
-    github: "https://github.com/SaiAryan1784/Sai_portfolio",
-    demo: "https://github.com/SaiAryan1784/Sai_portfolio"
+    title: 'First Project using JS',
+    github: "https://github.com/SaiAryan1784/js-first-project",
+    demo: "https://saiaryan1784.github.io/js-first-project/"
   }
 ]
 

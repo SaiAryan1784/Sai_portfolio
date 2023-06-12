@@ -40,7 +40,7 @@ const about = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus magnam eum omnis neque facilis labore modi quo quis, dicta, excepturi assumenda voluptatum deleniti porro quibusdam magni? Exercitationem dolorem adipisci pariatur fugiat temporibus, explicabo soluta?
+          My name is Sai Aryan Goswami. I am curently an First Year Undergrad at ABES Engg. College . Now, I am looking for my first Internship. I have been learning Web Development from over 6 months now, i have created websites using HTML, CSS, JS and ReactJS. I have been working as a freelance Frontend Developer for the last 2-3 months and cooperated with several individuals. I know that I can provide a fresh take and an extraordinary approach to every project. I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products.
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
